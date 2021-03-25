@@ -1,7 +1,7 @@
 <h3><b>NETFLIX INTERFACE</b></h3>
 
 Projeto feito em conjunto com o bootcamp de Angular avançado proposto pela Digital Innovation One.
-O projeto consiste na criação de um espelho da tela de home da Netflix, levando em consideraço colorimetria, tipografia e responsividade.
+O projeto consiste na criação de um espelho da tela de home da Netflix, levando em consideração a colorimetria, tipografia e responsividade.
 <br>
 Tecnologias usadas:
 
